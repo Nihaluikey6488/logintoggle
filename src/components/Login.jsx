@@ -6,7 +6,7 @@ const Login = ({setToggle}) => {
    <form >
     <div className='h-110 w-110 rounded-2xl bg-[#fff] px-10 py-10 shadow-xl'>
       <div className='h-[100%] w-[100%]'>
-          <h1 className='text-center font-bold text-3xl'>welcome back</h1>
+          <h1 className='text-center font-bold text-3xl'>Welcome back</h1>
         <p className='text-center text-[14px]  text-gray-500 py-2'>Sign in to your account</p>
         <div className=''>
         
